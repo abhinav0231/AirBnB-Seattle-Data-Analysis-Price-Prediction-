@@ -14,7 +14,7 @@ Calendar, including listing id and the price and availability for that day
 Business Question we wil try to Answer-
 
 Lets make this Customer Centric and try to There are 3 questions we would like to answer from our data.
-       > When are listings typically available? 
+    > When are listings typically available? 
 
                      Weekends only or all through the week?
                      Is there a seasonality pattern?

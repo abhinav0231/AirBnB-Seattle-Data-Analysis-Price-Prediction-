@@ -1,4 +1,9 @@
 # AirBnB-Seattle-Data-Analysis-Price-Prediction-
+
+Medium.com Link for the story-
+https://medium.com/@abhinav.sharma023/airbnb-the-seattle-story-de5c05caed90
+
+
 We will try to Answer some common Customer based question and finally try to create a good model to predict price for a future listing.
 
 Context

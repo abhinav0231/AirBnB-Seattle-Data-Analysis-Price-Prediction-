@@ -87,3 +87,8 @@ After running a few algorithms on the dataset, we see that Random Forest and Xgb
 
 https://medium.com/@abhinav.sharma023/airbnb-the-seattle-story-de5c05caed90
 
+
+## Acknowledgement
+
+I would like to thank Udacity for creating a learning model that is very efficient and  mentors at Udacity for coaching necessary background skills in Data Analysis.
+
